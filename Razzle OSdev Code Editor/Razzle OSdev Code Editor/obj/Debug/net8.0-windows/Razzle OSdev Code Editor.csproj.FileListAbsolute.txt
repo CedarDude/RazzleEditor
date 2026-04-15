@@ -1,0 +1,19 @@
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\bin\Debug\net8.0-windows\Razzle OSdev Code Editor.exe
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\bin\Debug\net8.0-windows\Razzle OSdev Code Editor.deps.json
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\bin\Debug\net8.0-windows\Razzle OSdev Code Editor.runtimeconfig.json
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\bin\Debug\net8.0-windows\Razzle OSdev Code Editor.dll
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\bin\Debug\net8.0-windows\Razzle OSdev Code Editor.pdb
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle_OSdev_Code_Editor.Form1.resources
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.csproj.GenerateResource.cache
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.AssemblyInfoInputs.cache
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.AssemblyInfo.cs
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.csproj.CoreCompileInputs.cache
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.dll
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\refint\Razzle OSdev Code Editor.dll
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.pdb
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle OSdev Code Editor.genruntimeconfig.cache
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\ref\Razzle OSdev Code Editor.dll
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle_OSdev_Code_Editor.Form2.resources
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle_OSdev_Code_Editor.Properties.Resources.resources
+C:\Users\Jad\source\repos\Razzle OSdev Code Editor\Razzle OSdev Code Editor\obj\Debug\net8.0-windows\Razzle_OSdev_Code_Editor.Form3.resources

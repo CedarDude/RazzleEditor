@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Razzle OSdev Code Editor/1.0.0": {
+        "runtime": {
+          "Razzle OSdev Code Editor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Razzle OSdev Code Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
