@@ -2,7 +2,6 @@ namespace Razzle_OSdev_Code_Editor
 {
     internal static class Program
     {
-        /// <summary>
         ///  The main entry point for the application.
         /// </summary>
         [STAThread]
